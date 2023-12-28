@@ -186,8 +186,8 @@
         "desc_para5": "از طریق GitHub با ما تماس بگیرید",
         "desc_para6": "و مشارکت کنید.",
         "footer_team": "تیم نرم‌افزار",
+		"title": "نرم‌افزار در حالت پیش‌نمایش است!"
     },
-    "title": "نرم‌افزار در حالت پیش نمایش است!",
     "language": {
         "search": "جستجو"
     },
@@ -247,7 +247,6 @@
         "mute_account": "ساکت کردن {0}",
         "mute_conversation": "ساکت کردن این فرسته",
         "open_in_original_site": "باز کردن در سایت اصلی",
-        "open_in_original_site": "در سایت اصلی باز کنید",
         "pin_on_profile": "به پروفایل سنجاق کنید",
         "remove_personal_note": "یادداشت شخصی را از {0} حذف کنید",
         "report_account": "گزارش {0}",
@@ -341,24 +340,24 @@
         "update_available_short": "به‌روزرسانی Elk",
         "webmanifest": {
             "canary": {
-                "description": "یک مشتری وب سبک و پیشرفته مستودون (canary)",
+                "description": "کارخواه وب چابک ماستودون (قناری)",
+				"name": "Elk (قناری)",
+				"short_name": "Elk (قناری)"
             },
             "dev": {
-                "name": "Elk (canary)",
-                "short_name": "Elk (canary)"
-                "description": "یک کارخواه سبک و پیشرفته ماستودون (پیش‌نمایش)",
-                "name": "Elk (dev)",
-                "short_name": "Elk (dev)"
+                "description": "کارخواه وب چابک ماستودون (توسعه)",
+                "name": "Elk (توسعه)",
+                "short_name": "Elk (توسعه)"
             },
             "preview": {
-                "description": "یک کارخواه وب چابک برای ماستودون (پیش نمایش)",
-                "name": "نرم‌افزار (پیش نمایش)",
-                "short_name": "نرم‌افزار (پیش نمایش)"
+                "description": "کارخواه وب چابک ماستودون (پیش‌نمایش)",
+                "name": "Elk (پیش‌نمایش)",
+                "short_name": "Elk (پیش‌نمایش)"
             },
             "release": {
-                "description": "یک کارخواه وب چابک برای ماستودون",
-                "name": "نرم‌افزار",
-                "short_name": "نرم‌افزار"
+                "description": "کارخواه وب چابک ماستودون",
+                "name": "Elk",
+                "short_name": "Elk"
             }
         }
     },
@@ -410,7 +409,7 @@
             "label": "درباره",
             "meet_the_team": "آشنایی با تیم",
             "sponsor_action": "حمایت از ما",
-            "sponsor_action_desc": "برای حمایت از تیم توسعه‌دهنده Elk,
+            "sponsor_action_desc": "برای حمایت از تیم توسعه‌دهنده Elk",
             "sponsors": "حامیان",
             "sponsors_body_1": "Elk با حمایت سخاوتمندانه و کمک‌ های:",
             "sponsors_body_2": "و تمام شرکت‌ها و افرادی که از تیم Elk و اعضاء آن حمایت می‌کنند، امکان‌پذیر شده است.",
